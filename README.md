@@ -47,7 +47,7 @@ frontend-portfolio/
 
 ## 課題一覧（随時追加予定）
 
-| No. | 課題名 | 内容 | 使用言語・フレームワーク | Qiita記事 |
+| No. | 課題名 | 内容 | 使用言語・フレームワーク | Qiita記事リンク |
 |-----|-------|-----|----------------------|----------|
 | 01 | Travel Spot | DOM操作・連想配列・オブジェクト指向 | HTML/CSS/Bootstrap/JavaScript | [記事を読む](https://qiita.com/mabo23/items/f82ec0bb46c128b7e64a) |
 | 02 | Library Application | APIの実装 | JavaScript | [記事を読む](未作成) |
