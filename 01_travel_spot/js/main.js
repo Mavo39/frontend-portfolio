@@ -22,7 +22,7 @@ let container = `
     </div>
 `;  
 
-let spotsHtml = countries.map(country => country.getRecommendationSpots()).join('');
+let spotsHtml = countries.map(country => country.getSpotsHtml()).join('');
 
 const travelSpotsHtml = container + spotsHtml;
 
