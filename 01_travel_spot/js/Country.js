@@ -38,11 +38,11 @@ export class Country {
                         <p>${this.description}</p>
                     </div>
                     <div class="row justify-content-between flex-wrap">
-                        ${this.getSpots.map(spot => `
+                        ${this.getSpots().map(spot => `
                             <div class="col-12 col-md-5 d-flex bg-white px-0 g-4">
                                 <div class="col-8 p-3">
                                     <h4>${spot.name}</h4>
-                                    <p>${spot.description}</p>
+                                    <p>${spot.description}</p>  
                                 </div>
                                 <div class="col-4 d-flex justify-content-center align-items-center">
                                     <img src="${spot.image}" alt="${spot.name}" class="col-12 p-1 img-fluid img-aspect">
