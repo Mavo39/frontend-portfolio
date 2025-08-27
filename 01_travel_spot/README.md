@@ -76,3 +76,8 @@ CountryクラスやSpotクラスを使うことで、それぞれの情報を独
 ## 動作確認
 - Google Chrome 最新版
 - Firefox 最新版
+
+
+## Qiitaリンク
+『【ポートフォリオ 04】JavaScriptで海外旅行スポットサイト風ページを作成 ~DOM操作とクラス設計を実践~』
+[記事を読む](https://qiita.com/mabo23/items/f82ec0bb46c128b7e64a)
